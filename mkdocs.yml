@@ -1,5 +1,4 @@
 site_name: PlatformPro 用户文档
-site_url: https://example.com
 theme:
   name: material
   font:
@@ -25,6 +24,8 @@ theme:
         name: Light Mode
       primary: blue
       accent: deep orange
+repo_url: http://git@github.com:VoyagerTHU/PlatformPro_UserHandbook.git
+repo_name: GitHub
 
 markdown_extensions:
   - attr_list
